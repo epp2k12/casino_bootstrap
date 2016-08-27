@@ -1,0 +1,223 @@
+h1 {
+	color: blue;
+}
+h2{
+    margin: 0;     
+    color: #666;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+
+body {
+
+ overflow: auto;
+
+}
+
+
+.container {
+
+}
+
+#main_menu {
+	border:1px solid orange;
+	width:96%;
+}
+
+.aside_main {
+
+}
+
+.featured_main {
+	width:96%;
+}
+
+#myNavbar {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+}
+
+
+.item{
+    background: #333;    
+    text-align: center;
+    height: 340px !important;
+}
+
+.main_features a:hover {
+		background-color: #ffefb0;
+
+
+	}
+.welcome {
+		line-height: 1.2em;
+	}
+
+#bar_title {
+	background-color: #a80000;
+	border: 3px solid orange;
+}
+
+/* main page styling */
+.main_content {
+	background-color:#fff4d0;
+	padding:30px 0;
+}
+
+
+
+
+/* index panel styling */
+/* ================================================== */
+.index_panel {
+    height: 270px;
+
+}
+
+
+/* index body styling */
+
+body{
+  background-image: url("../images/backgrounds/body/bk_img_04.jpg");
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  padding-top: 20px;
+}
+
+
+
+
+/* Chefs page styling */
+/* ================================================== */
+.specials {
+  margin:15px 0 0 0px;
+}
+.chef_panel {
+
+  width: 750px;
+}
+
+.specials img {
+	margin: 5px;
+	width: 50%;
+	float: left;
+}
+
+.chef-sidebar {
+  padding:10px;
+  margin-right:40px;
+}
+
+/* Contact Us page styling */
+/* =============================================== */
+.email {
+	padding:5px;
+}
+
+
+/* Board of directors styling */
+/* ============================================== */
+#bodpictures table td img {
+
+	width: 100%;
+}
+.bodpictures .bodname {
+	text-align: center;
+}
+
+#bodpictures {
+	margin: 0px auto;
+}
+
+.bodpictures img {
+width: 300px;
+border:2px solid gray;
+}
+
+/* ===================== errors ====================== */
+
+#small_errors {
+	
+	margin: 5px auto;
+	padding: 5px 0px 5px 25px;
+	background-color: #ad0101;
+	color: #fff;
+	opacity:0.7;
+	border-radius: 10px;
+	
+
+}
+
+#small_errors .fline {
+	
+	font-weight: bold;
+}
+
+
+/* ========= Event Calendar styles ================ */
+
+#calendar_title {
+	color: #ffffff;
+	text-align: center;
+	font-size: 1.2em;
+	margin: 10px 0;
+	border: 1px solid yellow;
+}
+
+#calendar {
+
+	margin:0 auto;
+	margin-top: 10px;
+
+	/* width: 100%; */
+}
+
+#calendar_container table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+	.special_day {
+
+		background-color: #feb503;
+		font-weight: bold;
+		text-align: left;
+	}
+
+	.special_day_activities {
+
+		background-color: #dddddd;
+		font-weight: bold;
+	}
+
+	.special_activity_title {
+
+		color: #f00;
+
+	}
+
+	.day {
+		text-align: left;
+		background-color: #ffec6a;
+	}
+
+
+	.day_activities {
+
+		background-color: #ffffff;
+
+	}
+	.day_num {
+
+		width: 25px;t
+		text-align: left;
+	}
+
+	.t_title {
+		color: #fff;
+		background-color: #511c10;
+		font-weight: bold;
+	}
