@@ -84,7 +84,7 @@ min-height: 240px;
 			</div>
 
 			<div class="meeting_details col-sm-7" >
-				<div class="meeting_title">ZARAGOSA (Board Room)</div>
+				<div class="meeting_title">ZARAGOZA (Board Room)</div>
 				Capacity: 12 persons<br/><br/>
 				Perfect for Business Meetings.<br/>
 			</div>

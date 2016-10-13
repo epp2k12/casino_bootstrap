@@ -3,12 +3,12 @@
  			<div class="panel panel-default" style="margin-top:0">
 	            <div class="panel-heading">
 	                <h4 class="panel-title">
-	                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Chef Special for the month of August</a>
+	                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Chef Special for the month of October</a>
 	                </h4>
 	            </div>
 	            <div id="collapseOne" class="panel-collapse collapse in">
 	                <div class="panel-body">
-                    <img class="img-thumbnail" src="images/chef_specials/seafood.jpg" style="width:100%" >
+                    <img class="img-thumbnail" src="images/chef_specials/2016chefspecialoctober.jpg" style="width:100%" >
 	                </div>
 	            </div>
         	</div>

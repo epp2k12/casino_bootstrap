@@ -48,10 +48,21 @@ include 'common/header.php';
 
 				<div class="panel">
 		        <div class="panel-heading" style="background-color:#a80000;color:#ffffff">
-	            <h3 class="panel-title">SEAFOOD COMBO PLATTER (Chef's special for August 2016) </h3>
+	            <h3 class="panel-title">PASTEL DE LENGUA (Chef's special for October 2016) </h3>
+		        </div>
+		        <img class="img-thumbnail" src="images/chef_specials/2016chefspecialoctober.jpg">
+		        <div class="panel-body">Tasty, juicy and creamy ox tongue inside of a flaky and yummy crust
+		        <div class="special_buttons text-right">
+		        </div>
+		        </div>
+		   	 	</div>
+
+				<div class="panel">
+		        <div class="panel-heading" style="background-color:#a80000;color:#ffffff">
+	            <h3 class="panel-title">SEAFOOD COMBO PLATTER (Chef's special for September 2016) </h3>
 		        </div>
 		        <img class="img-thumbnail" src="images/chef_specials/seafood.jpg">
-		        <div class="panel-body">A combo of the best seafood dishes. Breaded squid, nicely grilled fish fillet, shrimp rebosado &amp; baked clams served with belgian fires 
+		        <div class="panel-body">A combo of the best seafood dishes. Breaded squid, nicely grilled fish fillet, shrimp rebosado &amp; baked clams served with belgian fires
 		        <div class="special_buttons text-right">
 		        </div>
 		        </div>
@@ -68,7 +79,7 @@ include 'common/header.php';
 		        </div>
 		        </div>
 		   	 	</div>
-seafood.jpg
+
 				<div class="panel panel-danger">
 		        <div class="panel-heading">
 	            <h3 class="panel-title">TERIYAKI BARBECUE PORK RIBS</h3>
@@ -102,7 +113,7 @@ seafood.jpg
 		        </div>
 		   	 	</div>
 
-		   	 	<!-- 
+		   	 	<!--
 				<div class="panel panel-danger" >
 		        <div class="panel-heading">
 	            <h3 class="panel-title">Huevos a la Flamenca</h3>

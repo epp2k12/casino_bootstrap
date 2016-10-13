@@ -35,7 +35,7 @@ include 'common/header.php';
 		        <div class="panel-heading">
 	            <h3 class="panel-title">GREEN APPLE SORBET</h3>
 		        </div>
-		        <img class="img-thumbnail" src="images/events_page/2016August/promo/greenapple.jpg">
+		        <img class="img-thumbnail" src="images/events_page/2016August/promo/greenApple.jpg">
 		        <div class="panel-body">
 		        <div class="special_buttons text-right">
 		        </div>
